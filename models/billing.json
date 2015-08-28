@@ -1,0 +1,41 @@
+[
+  {
+    "addressLine1": "1234 Danger Lane",
+    "addressLine2": "Apartment 007",
+    "city": "New York",
+    "state": "NY",
+    "zip": "11001",
+    "phoneNumber": "555-678-3344",
+    "customerId": 1
+  },
+
+  {
+    "addressLine1": "1234 Badass Rd",
+    "addressLine2": "Apartment 90",
+    "city": "New York",
+    "state": "NY",
+    "zip": "11003",
+    "phoneNumber": "444-673-3544",
+    "customerId": 2
+  },
+
+  {
+    "addressLine1": "1234 Stirfryday St.",
+    "addressLine2": "Apartment 003",
+    "city": "New York",
+    "state": "NY",
+    "zip": "11031",
+    "phoneNumber": "535-333-3554",
+    "customerId": 3
+  },
+
+  {
+    "addressLine1": "9090 Tunt Pkwy",
+    "addressLine2": "Tunt Estate East Wing",
+    "city": "Tunt Township",
+    "state": "NY",
+    "zip": "11222",
+    "phoneNumber": "899-467-3334",
+    "customerId": 4
+  },
+]

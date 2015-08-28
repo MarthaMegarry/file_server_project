@@ -1,0 +1,21 @@
+[
+  {
+    "addressLine1": "12 Main St",
+    "addressLine2": "Apartment 4",
+    "city": "New Amsterdam",
+    "state": "NY",
+    "zip": "13000",
+    "phoneNumber": "445-678-3344",
+    "customerId": 5
+  },
+
+  {
+    "addressLine1": "167 Danger Lane",
+    "addressLine2": "Apartment 6",
+    "city": "New York",
+    "state": "NY",
+    "zip": "11331",
+    "phoneNumber": "554-678-2244",
+    "customerId": 6
+  }
+]
